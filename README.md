@@ -1,7 +1,6 @@
 - 👋 Hi, I’m David Brown from Microsoft living in Melbourne, Australia
 - 👀 I’m interested in learning to code and using these skills to drive operatinoal efficiencies as well as developing new products & services.
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on DevSecOps projects that deliver infra-as-code 
+- 🌱 I’m currently learning Javascript and Python
 - 📫 How to reach me david@gradoe.com or david.c.brown@microsoft.com
 
 <!---
